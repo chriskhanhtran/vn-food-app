@@ -41,7 +41,7 @@ def plot_probs(outputs):
 
 def main():
     st.markdown("<h1 style='text-align: center;'>What is this Vietnamese food?🍜</h1>", unsafe_allow_html=True)
-    learn = load_learner(".")
+    learn = load_learner("models/")
 
     # Input URL
     url = st.text_input(
