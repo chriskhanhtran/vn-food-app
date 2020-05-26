@@ -66,8 +66,10 @@ def main():
         plot_probs(outputs)
 
     # Reference
-    st.markdown("""## Reference
-- [Notebook](https://github.com/chriskhanhtran/vn-food-app/blob/master/notebook.ipynb), [GitHub](https://github.com/chriskhanhtran/vn-food-app)
+    st.markdown(
+"""## Resources
+[![](https://img.shields.io/badge/GitHub-View_Repository-blue?logo=GitHub)](https://github.com/chriskhanhtran/vn-food-app)
+- [How the Vietnamese Food Classifier was trained](https://github.com/chriskhanhtran/vn-food-app/blob/master/notebook.ipynb)
 - [Fast AI: Lesson 1 - What's your pet](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson1-pets.ipynb)
 - [Fast AI: Lesson 2 - Creating your own dataset from Google Images](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson2-download.ipynb)
 - [PyImageSearch: How to (quickly) build a deep learning image dataset](https://www.pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/)
