@@ -5,7 +5,7 @@ Bánh mì or banh mi is the Vietnamese word for bread. In Vietnamese cuisine, it
 "banh-xeo": """## Bánh xèo
 *Read on [Wikipedia](https://en.wikipedia.org/wiki/B%C3%A1nh_x%C3%A8o)* 
 
-Bánh xèo, literally "sizzling pancake", named for the loud sizzling sound it makes when the rice batter is poured into the hot skillet,[1][2] is a Vietnamese savoury fried pancake made of rice flour, water, and turmeric powder. Some common stuffings include: pork, shrimp, diced green onion, mung bean, and bean sprouts. Bánh xèo are also served with lettuce, mint, Thai basil, and fish mint.""",
+Bánh xèo, literally "sizzling pancake", named for the loud sizzling sound it makes when the rice batter is poured into the hot skillet, is a Vietnamese savoury fried pancake made of rice flour, water, and turmeric powder. Some common stuffings include: pork, shrimp, diced green onion, mung bean, and bean sprouts. Bánh xèo are also served with lettuce, mint, Thai basil, and fish mint.""",
 "bubble-tea": """## Bubble tea
 *Read on [Wikipedia](https://en.wikipedia.org/wiki/Bubble_tea)* 
 
@@ -22,7 +22,6 @@ Bún bò Nam Bộ is a very mouth-watering vermicelli noodle dish served with st
 *Read on [Wikipedia](https://en.wikipedia.org/wiki/Bun_cha)* 
 
 Bún chả is a Vietnamese dish of grilled pork and noodle, which is thought to have originated from Hanoi, Vietnam. Bún chả is served with grilled fatty pork (chả) over a plate of white rice noodle (bún) and herbs with a side dish of dipping sauce. The dish was described in 1959 by Vietnamese food writer Vu Bang (1913–1984) who described Hanoi as a town "transfixed by bún chả." Hanoi's first bún chả restaurant was on Gia Ngư, Hoàn Kiếm District, in Hanoi's Old Quarter.""",
-
 "bun-dau-mam-tom": """## Bún đậu mắm tôm
 *Read on [Wikipedia](https://vi.wikipedia.org/wiki/B%C3%BAn_%C4%91%E1%BA%ADu_m%E1%BA%AFm_t%C3%B4m)* 
 
