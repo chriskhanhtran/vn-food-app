@@ -1,0 +1,45 @@
+{"banh-mi": """## Bánh mì
+*Read on [Wikipedia](https://en.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC)* 
+
+Bánh mì or banh mi is the Vietnamese word for bread. In Vietnamese cuisine, it also refers to a type of short baguette with thin, crisp crust and soft, airy texture inside that is often split lengthwise and filled with various savory ingredients as a sandwich and served as a meal. Plain banh mi is also eaten as a staple food.""",
+"banh-xeo": """## Bánh xèo
+*Read on [Wikipedia](https://en.wikipedia.org/wiki/B%C3%A1nh_x%C3%A8o)* 
+
+Bánh xèo, literally "sizzling pancake", named for the loud sizzling sound it makes when the rice batter is poured into the hot skillet,[1][2] is a Vietnamese savoury fried pancake made of rice flour, water, and turmeric powder. Some common stuffings include: pork, shrimp, diced green onion, mung bean, and bean sprouts. Bánh xèo are also served with lettuce, mint, Thai basil, and fish mint.""",
+"bubble-tea": """## Bubble tea
+*Read on [Wikipedia](https://en.wikipedia.org/wiki/Bubble_tea)* 
+
+Bubble tea (also known as pearl milk tea, bubble milk tea, or boba) is a Taiwanese tea-based drink invented in the 1980s, which is shaken with ice to create the "bubbles", a foamy layer on top of the drink; chewy tapioca balls ("pearls") are added as well. Ice-blended versions are frozen and put into a blender, resulting in a slushy consistency. There are many varieties of the drink with a wide range of flavors. The two most popular varieties are black pearl milk tea and green pearl milk tea.""",
+"bun-bo-hue": """## Bún bò Huế
+*Read on [Wikipedia](https://en.wikipedia.org/wiki/B%C3%BAn_b%C3%B2_Hu%E1%BA%BF)* 
+
+Bún bò Huế or bún bò is a popular Vietnamese soup containing rice vermicelli (bún) and beef (bò). Huế is a city in central Vietnam associated with the cooking style of the former royal court. The dish is greatly admired for its balance of spicy, salty, and umami flavors. The predominant flavor is that of lemongrass. Compared to phở or bún riêu, the noodles are thicker and more cylindrical.""",
+"bun-bo-nam-bo": """## Bún bò Nam Bộ
+*Read on [Inside Travel](https://www.insidevietnamtravel.com/travel-guide/bun-bo-nam-bo.html)* 
+
+Bún bò Nam Bộ is a very mouth-watering vermicelli noodle dish served with stir-fried marinated beef, shortly known as stir-fried beef noodles. This popular food item has been introduced well from north to south Vietnam and is best well known in the capital Hanoi.""",
+"bun-cha": """## Bún chả
+*Read on [Wikipedia](https://en.wikipedia.org/wiki/Bun_cha)* 
+
+Bún chả is a Vietnamese dish of grilled pork and noodle, which is thought to have originated from Hanoi, Vietnam. Bún chả is served with grilled fatty pork (chả) over a plate of white rice noodle (bún) and herbs with a side dish of dipping sauce. The dish was described in 1959 by Vietnamese food writer Vu Bang (1913–1984) who described Hanoi as a town "transfixed by bún chả." Hanoi's first bún chả restaurant was on Gia Ngư, Hoàn Kiếm District, in Hanoi's Old Quarter.""",
+
+"bun-dau-mam-tom": """## Bún đậu mắm tôm
+*Read on [Wikipedia](https://vi.wikipedia.org/wiki/B%C3%BAn_%C4%91%E1%BA%ADu_m%E1%BA%AFm_t%C3%B4m)* 
+
+Bún đậu mắm tôm is a simple and rustic dish in Northern Vietnamese cuisine. This dish is often used as a snack, playboy. Key Ingredients include fresh noodles, tofu fried golden, fried nuggets, nem chua, shrimp paste mixed lemon, chilli and served with all kinds of herbs such as perilla, marjoram, basil, lettuce, eggplant... as with other folk dishes, low price should be many ordinary men should eat the income of the traders of this dish is quite high.""",
+"che": """## Chè
+*Read on [Wikipedia](https://en.wikipedia.org/wiki/Ch%C3%A8)* 
+
+Chè is any traditional Vietnamese sweet beverage, dessert soup or pudding. Varieties of Chè are made with mung beans, black-eyed peas, kidney beans, tapioca, jelly (clear or grass), fruit (longan, mango, durian, lychee or jackfruit), and coconut cream. Other types are made with ingredients such as salt, aloe vera, seaweed, lotus seed, sesame seed, sugar palm seeds, taro, cassava and pandan leaf extract.""",
+"hu-tieu": """## Hủ tiếu
+*Read on [Wikipedia](https://en.wikipedia.org/wiki/Kuy_teav)* 
+
+Hủ tiếu or hủ tíu is eaten in Vietnam as a breakfast dish. It may be served either as a soup (hủ tiếu nước) or dry with no broth (hủ tiếu khô). Hủ tiếu became popular in the 1960s in southern Vietnam, especially in Saigon.""",
+"pho": """## Phở
+*Read on [Wikipedia](https://en.wikipedia.org/wiki/Pho)* 
+
+Phở or pho is a Vietnamese soup consisting of broth, rice noodles (bánh phở), herbs, and meat (usually beef) (phở bò), sometimes chicken (phở gà). Pho is a popular street food in Vietnam and served in restaurants around the world.""",
+"spring-rolls": """## Spring rolls
+*Read on [Wikipedia](https://en.wikipedia.org/wiki/G%E1%BB%8Fi_cu%E1%BB%91n)* 
+
+Gỏi cuốn, Vietnamese spring roll, fresh spring roll, spring roll, or rice paper roll, is a Vietnamese dish traditionally consisting of pork, prawn, vegetables, bún (rice vermicelli), and other ingredients wrapped in Vietnamese bánh tráng (commonly known as rice paper or cold roll).""",}
