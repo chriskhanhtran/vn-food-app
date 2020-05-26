@@ -41,9 +41,11 @@ def plot_probs(outputs):
 
 def main():
     st.markdown("<h1 style='text-align: center;'>What is this Vietnamese food?🍜</h1>", unsafe_allow_html=True)
+    st.markdown("<center><img src='https://www.google.com/logos/doodles/2020/celebrating-banh-mi-6753651837108330.3-2xa.gif' width='500'></center>", unsafe_allow_html=True)
     learn = load_learner("models/")
 
     # Input URL
+    st.write("")
     url = st.text_input(
         "URL: ",
         "https://cuisine-vn.com/wp-content/uploads/2020/03/google-first-honors-vietnamese-bread-promoting-more-than-10-countries-around-the-world-2.jpg",
