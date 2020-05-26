@@ -49,20 +49,30 @@ def main():
         "https://cuisine-vn.com/wp-content/uploads/2020/03/google-first-honors-vietnamese-bread-promoting-more-than-10-countries-around-the-world-2.jpg",
     )
 
-    # Get and show image
-    img_input = open_image_url(url)
-    st.markdown("<h2 style='text-align: center;'>Image📷</h2>", unsafe_allow_html=True)
-    st.markdown(f"<center><img src='{url}' width='500'></center>", unsafe_allow_html=True)
+    if url:
+        # Get and show image
+        img_input = open_image_url(url)
+        st.markdown("<h2 style='text-align: center;'>Image📷</h2>", unsafe_allow_html=True)
+        st.markdown(f"<center><img src='{url}' width='500'></center>", unsafe_allow_html=True)
 
-    # Predict
-    st.write("")
-    st.markdown("<h2 style='text-align: center;'>Output🍲</h2>", unsafe_allow_html=True)
-    pred_class, pred_idx, outputs = learn.predict(img_input)
-    st.markdown(info[str(pred_class)])
-    st.markdown(f"**Probability:** {outputs[pred_idx] * 100:.2f}%")
+        # Predict
+        st.write("")
+        st.markdown("<h2 style='text-align: center;'>Output🍲</h2>", unsafe_allow_html=True)
+        pred_class, pred_idx, outputs = learn.predict(img_input)
+        st.markdown(info[str(pred_class)])
+        st.markdown(f"**Probability:** {outputs[pred_idx] * 100:.2f}%")
 
-    # Plot
-    plot_probs(outputs)
+        # Plot
+        plot_probs(outputs)
+
+    # Reference
+    st.markdown("""## Reference
+- [Notebook](https://github.com/chriskhanhtran/vn-food-app/blob/master/notebook.ipynb), [GitHub](https://github.com/chriskhanhtran/vn-food-app)
+- [Fast AI: Lesson 1 - What's your pet](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson1-pets.ipynb)
+- [Fast AI: Lesson 2 - Creating your own dataset from Google Images](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson2-download.ipynb)
+- [PyImageSearch: How to (quickly) build a deep learning image dataset](https://www.pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/)
+""")
+
 
 
 if __name__ == "__main__":
