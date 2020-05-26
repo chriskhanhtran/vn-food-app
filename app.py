@@ -41,6 +41,7 @@ def plot_probs(outputs):
 
 def main():
     st.markdown("<h1 style='text-align: center;'>What is this Vietnamese food?🍜</h1>", unsafe_allow_html=True)
+    learn = load_learner(".")
 
     # Input URL
     url = st.text_input(
@@ -54,10 +55,9 @@ def main():
     st.markdown(f"<center><img src='{url}' width='500'></center>", unsafe_allow_html=True)
 
     # Predict
-    learn = load_learner(".")
-    pred_class, pred_idx, outputs = learn.predict(img_input)
     st.write("")
     st.markdown("<h2 style='text-align: center;'>Output🍲</h2>", unsafe_allow_html=True)
+    pred_class, pred_idx, outputs = learn.predict(img_input)
     st.markdown(info[str(pred_class)])
     st.markdown(f"**Probability:** {outputs[pred_idx] * 100:.2f}%")
 
